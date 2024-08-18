@@ -5,6 +5,7 @@
 ![Diogocenteno GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogocenteno&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogocenteno&langs_count=8)
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Pyton](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
