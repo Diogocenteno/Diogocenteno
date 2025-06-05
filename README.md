@@ -1,5 +1,11 @@
-###
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Eu+sou+Diogo+%F0%9F%96%90%EF%B8%8F;Sou+uma+pessoa+calma+;e+apaixonado+por+tecnologias%2C+;com+um+constante+desejo+de+aprender+;e+explorar+novas+%C3%A1reas.)](https://git.io/typing-svg)
+# 👋 Olá, visitante!
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1800&pause=500&color=39FF14&multiline=true&width=1800&height=500&lines=>>>+Initializing+backdoor+sequence...;>>>+Bypassing+firewall...;>>>+Injecting+payload+%5Bapresentacao.py%5D...;>>>+Establishing+reverse+shell...;>>>+Connection+granted+%5Broot@target%5D;>>>+Executing+apresentacao():;def+apresentacao():;..nome+=+"Diogo";..personalidade+=+"calma";..paixao+=+"tecnologias";..desejo+=+"aprender+e+explorar+novas+áreas";..mensagem+=+f"Olá!+Eu+sou+{nome}...";..print(mensagem);>>>+Uploading+personality+signature...;>>>+Olá!+Eu+sou+Diogo,+sou+uma+pessoa+calma,+apaixonado+por+tecnologias,+com+um+constante+desejo+de+aprender+e+explorar+novas+áreas.;>>>+Fingerprint+logged...;>>>+Cleaning+logs...;>>>+Disconnecting+from+host...;>>>+Session+terminated.)](https://git.io/typing-svg)
+
+✨ Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, aprendizados e experimentos com tecnologia.
+
+
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
