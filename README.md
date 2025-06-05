@@ -20,7 +20,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogocenteno&langs_count=8&title_color=03A062&text_color=FFF&icon_color=03A062&bg_color=0D1117" alt="Top Languages">
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Diogocenteno&theme=matrix)](https://github.com/Diogocenteno/github-profile-trophy)
+
 
 
 
