@@ -1,5 +1,9 @@
 ### Olá! Eu sou Diogo 🖐️
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Diogo+Centeno)](https://git.io/typing-svg)
+
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
 ![Diogocenteno GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogocenteno&show_icons=true&theme=radical)
