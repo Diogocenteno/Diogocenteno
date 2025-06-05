@@ -8,8 +8,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
-![Diogocenteno GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogocenteno&show_icons=true&title_color=03A062&text_color=FFF&icon_color=03A062&bg_color=0D1117
-)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diogocenteno&show_icons=true&hide_title=true&hide_border=true&theme=transparent&show=prs_merged&number_format=long&count_private=true&include_all_commits=true" alt="profile stats" title="profile stats" width="400" />
+  <img src="https://github-readme-streak-stats-ten-peach.vercel.app?user=Diogocenteno&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="streak stats" title="streak stats" width="400" />
+</p>
+
 
 ## Tecnologias que eu uso no meu dia
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogocenteno&langs_count=8&title_color=03A062&text_color=FFF&icon_color=03A062&bg_color=0D1117)
@@ -23,3 +26,15 @@
 [![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Exel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/pt-br/microsoft-365/excel)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diogocenteno&show_icons=true&hide_title=true&hide_border=true&theme=transparent&show=prs_merged&number_format=long&count_private=true&include_all_commits=true" alt="profile stats" title="profile stats" width="400" />
+  <img src="https://github-readme-streak-stats-ten-peach.vercel.app?user=Diogocenteno&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j" alt="streak stats" title="streak stats" width="400" />
+</p>
+
+
+![Diogocenteno GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogocenteno&show_icons=true&title_color=03A062&text_color=FFF&icon_color=03A062&bg_color=0D1117
+)
