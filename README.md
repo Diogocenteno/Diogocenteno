@@ -1,4 +1,5 @@
 # 👋 Olá, visitante!  
+✨ Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, aprendizados e experimentos com tecnologia.
 <div align="center">
   <img width=380 alt="Github" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif" />
 </div>
@@ -22,9 +23,6 @@
   />
 </picture>
 
-
-
-✨ Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, aprendizados e experimentos com tecnologia.
 
 
 
