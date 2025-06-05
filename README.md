@@ -1,6 +1,6 @@
 # 👋 Olá, visitante!  
 <div align="center">
-  <img width=380 align="right" alt="Github" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif" />
+  <img width=380 alt="Github" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif" />
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1800&pause=500&color=39FF14&multiline=true&width=1800&height=600&lines=>>>+!!+ALERTA:+VIOLAÇÃO+CRÍTICA+DE+SISTEMA+DETECTADA+!!;>>>+Tentando+escalar+para+shell+root+...;>>>+ACESSO+NEGADO.+Retentando+cadeia+de+exploit+0xDEADC0DE...;>>>+INTEGRIDADE+DO+SISTEMA+COMPROMETIDA.+Kernel+panic+iniciado.;>>>+IGNORANDO+TODOS+OS+PROTOCOLOS+DE+SEGURANÇA...+;>>>+Acesso+ao+Mainframe+CONCEDIDO+%5Broot@REDE_GLOBAL%5D;>>>+Executando+payload:+injetor_de_assinatura_diogo.sh;def+apresentar_se(sistema_alvo):;..sistema_alvo.display.limpar();..sistema_alvo.display.imprimir("Iniciando+injeção+de+perfil+pessoal...");;..nome+=+"Diogo";..disposicao+=+"calma";..obsessao+=+"tecnologias";..busca+=+"aprender+e+explorar+novas+áreas";..mensagem+=+f"Olá!+Eu+sou+{nome}...";..imprimir(mensagem);>>>+Transmitindo+identidade+por+todos+os+canais...;>>>+Olá!+Eu+sou+Diogo,+sou+uma+pessoa+calma,+apaixonado+por+tecnologias,+com+um+constante+desejo+de+aprender+e+explorar+novas+áreas.;>>>+Sistema+host+sob+controle+total.+Impressão+digital+queimada.;>>>+Apagando+todos+os+rastros.+Nenhuma+evidência+resta.;>>>+Missão+completa.+Saindo+do+sistema+sem+ser+visto.)](https://git.io/typing-svg)
