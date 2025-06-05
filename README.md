@@ -8,10 +8,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
-![Diogocenteno GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogocenteno&show_icons=true&theme=radical)
+![Diogocenteno GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogocenteno&show_icons=true&title_color=03A062&text_color=FFF&icon_color=03A062&bg_color=0D1117
+)
 
 ## Tecnologias que eu uso no meu dia
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogocenteno&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogocenteno&langs_count=8&title_color=03A062&text_color=FFF&icon_color=03A062&bg_color=0D1117)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
