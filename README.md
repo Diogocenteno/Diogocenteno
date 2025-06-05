@@ -1,10 +1,8 @@
 # 👋 Olá, visitante!
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1800&pause=500&color=39FF14&multiline=true&width=1800&height=500&lines=>>>+Initializing+backdoor+sequence...;>>>+Bypassing+firewall...;>>>+Injecting+payload+%5Bapresentacao.py%5D...;>>>+Establishing+reverse+shell...;>>>+Connection+granted+%5Broot@target%5D;>>>+Executing+apresentacao():;def+apresentacao():;..nome+=+"Diogo";..personalidade+=+"calma";..paixao+=+"tecnologias";..desejo+=+"aprender+e+explorar+novas+áreas";..mensagem+=+f"Olá!+Eu+sou+{nome}...";..print(mensagem);>>>+Uploading+personality+signature...;>>>+Olá!+Eu+sou+Diogo,+sou+uma+pessoa+calma,+apaixonado+por+tecnologias,+com+um+constante+desejo+de+aprender+e+explorar+novas+áreas.;>>>+Fingerprint+logged...;>>>+Cleaning+logs...;>>>+Disconnecting+from+host...;>>>+Session+terminated.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1800&pause=500&color=39FF14&multiline=true&width=1800&height=600&lines=>>>+!!+ALERTA:+VIOLAÇÃO+CRÍTICA+DE+SISTEMA+DETECTADA+!!;>>>+Tentando+escalar+para+shell+root+...;>>>+ACESSO+NEGADO.+Retentando+cadeia+de+exploit+0xDEADC0DE...;>>>+INTEGRIDADE+DO+SISTEMA+COMPROMETIDA.+Kernel+panic+iniciado.;>>>+IGNORANDO+TODOS+OS+PROTOCOLOS+DE+SEGURANÇA...+;>>>+Acesso+ao+Mainframe+CONCEDIDO+%5Broot@REDE_GLOBAL%5D;>>>+Executando+payload:+injetor_de_assinatura_diogo.sh;def+apresentar_se(sistema_alvo):;..sistema_alvo.display.limpar();..sistema_alvo.display.imprimir("Iniciando+injeção+de+perfil+pessoal...");;..nome+=+"Diogo";..disposicao+=+"calma";..obsessao+=+"tecnologias";..busca+=+"aprender+e+explorar+novas+áreas";..mensagem+=+f"Olá!+Eu+sou+{nome}...";..imprimir(mensagem);>>>+Transmitindo+identidade+por+todos+os+canais...;>>>+Olá!+Eu+sou+Diogo,+sou+uma+pessoa+calma,+apaixonado+por+tecnologias,+com+um+constante+desejo+de+aprender+e+explorar+novas+áreas.;>>>+Sistema+host+sob+controle+total.+Impressão+digital+queimada.;>>>+Apagando+todos+os+rastros.+Nenhuma+evidência+resta.;>>>+Missão+completa.+Saindo+do+sistema+sem+ser+visto.)](https://git.io/typing-svg)
 
 ✨ Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, aprendizados e experimentos com tecnologia.
-
 
 
 
