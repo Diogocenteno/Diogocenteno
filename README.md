@@ -1,6 +1,5 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Eu+sou+Diogo+%F0%9F%96%90%EF%B8%8F)](https://git.io/typing-svg)
-
+###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Eu+sou+Diogo+%F0%9F%96%90%EF%B8%8F;Sou+uma+pessoa+calma+;e+apaixonado+por+tecnologias%2C+;com+um+constante+desejo+de+aprender+;e+explorar+novas+%C3%A1reas.)](https://git.io/typing-svg)
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
